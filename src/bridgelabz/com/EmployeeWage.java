@@ -8,8 +8,10 @@ package bridgelabz.com;
     static final int WORKING_DAY_PER_MONTH = 20;
 
 public class EmployeeWage {
+
   
    public static void main(String[] args) {
+
 
         int workingDays = 1;
         int empPresent=0;
